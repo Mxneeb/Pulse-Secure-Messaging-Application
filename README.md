@@ -47,7 +47,7 @@ Pulse/
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/pulse-secure-messaging.git
+git clone https://github.com/yourusername/pulse-secure-messaging.git](https://github.com/Mxneeb/Pulse---Secure-Messaging-Application/
 ```
 
 2. Open the solution file (`Login.sln`) in Visual Studio.
