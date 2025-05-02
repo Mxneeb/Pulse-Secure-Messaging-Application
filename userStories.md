@@ -22,7 +22,3 @@ This document outlines the user stories that guided the development of Pulse Sec
 
 ### Main User Story
 "As a client, I want the basic components of the user interface, such as buttons, sliders to be functional. This will allow users to interact with the software effectively, enabling them to perform various actions and receive feedback through the interface. Having these components functional will enhance the overall user experience and make the software more intuitive and user-friendly. As a client, I want the basic chat room functionality to be implemented, including a message prompt for users to input their messages, real-time messaging display for instant communication, and other essential features. This will enable users to engage in seamless and interactive conversations within the chat room, enhancing the overall user experience and making the software more engaging and dynamic."
-
-### Sub-Stories
-
-#### Sub-Story 2.1:
