@@ -81,18 +81,4 @@ Pulse was developed in three sprints:
 2. **Sprint 2**: Core functionality implementation
 3. **Sprint 3**: Network integration, multi-user support, and final testing
 
-## Contributing
 
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## Acknowledgments
-
-- Developed by Team Pulse
-  - Talha Ali: Team lead and developer (Talha@gmail.com)
-  - Moix Tanvir: UI/UX designer (Moiz@gmail.com)
-  - Irtaza: Architecture and UI/UX (Irtaza@gmail.com)
-  - Muneeb: Tester (Muneeb@gmail.com)
