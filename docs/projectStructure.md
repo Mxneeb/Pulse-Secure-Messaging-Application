@@ -18,8 +18,11 @@ pulse-secure-messaging/
 │       ├── App.config
 │       └── Login.csproj
 ├── docs/
-│   ├── images/                 # Architecture and UI assets
-│   ├── project-artifacts/      # Original design image bundle folder
+│   ├── images/
+│   │   ├── diagrams/           # Architecture and UML images
+│   │   ├── ui/                 # App UI screenshots
+│   │   ├── icons/              # App icon screenshots
+│   │   └── reference/          # Sample profile/reference photos
 │   ├── projectStructure.md
 │   └── security.md
 ├── assets/
